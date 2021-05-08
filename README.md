@@ -1,2 +1,3 @@
-# spotifyMLProject
-Repo for Spotify machine learning project
+# Spotify Project
+Repo for the Spotify machine learning project
+<sup>plz contrib</sup>
